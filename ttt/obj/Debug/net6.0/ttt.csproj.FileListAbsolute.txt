@@ -1,0 +1,5 @@
+/home/aust3n/Desktop/ttt/obj/Debug/net6.0/ttt.csproj.AssemblyReference.cache
+/home/aust3n/Desktop/ttt/obj/Debug/net6.0/ttt.GeneratedMSBuildEditorConfig.editorconfig
+/home/aust3n/Desktop/ttt/obj/Debug/net6.0/ttt.AssemblyInfoInputs.cache
+/home/aust3n/Desktop/ttt/obj/Debug/net6.0/ttt.AssemblyInfo.cs
+/home/aust3n/Desktop/ttt/obj/Debug/net6.0/ttt.csproj.CoreCompileInputs.cache
